@@ -199,7 +199,7 @@
 }
 				
 #country-info {
-    font-size: 12pt;
+    font-size: 10pt;
     margin-top: 3%;
     justify-items: center;
     align-content: center;
@@ -215,7 +215,7 @@
 }
 
 #language {
-    font-size: 12pt;
+    font-size: 10pt;
     margin-top: 4%;
     justify-items: center;
     align-content: center;
@@ -231,7 +231,7 @@
 }
     
 #population {
-    font-size: 12pt;
+    font-size: 10pt;
     margin-top: 4%;
     justify-items: center;
     align-content: center;
@@ -247,7 +247,7 @@
 }
     
 #area-sq-mi {
-    font-size: 12pt;
+    font-size: 10pt;
     margin-top: 4%;
     justify-items: center;
     align-content: center;
@@ -263,7 +263,7 @@
 }
     
 #region-employees {
-    font-size: 12pt;
+    font-size: 10pt;
     margin-top: 4%;
     justify-items: center;
     align-content: center;
@@ -279,7 +279,7 @@
 }
     
 #region-revenue {
-    font-size: 12pt;
+    font-size: 10pt;
     margin-top: 4%;
     justify-items: center;
     align-content: center;
