@@ -24,7 +24,7 @@
     padding-top: 5%;
     align-self: center;
     text-align: center;
-    font-size: 40pt;
+    font-size: 30pt;
     width: 100%;
     height: 50%;
     padding-bottom: 5%;
@@ -34,7 +34,7 @@
     padding-top: 5%;
     align-self: center;
     text-align: center;
-    font-size: 30pt;
+    font-size: 20pt;
     width: 100%;
     height: 50%;
     padding-bottom: 5%;
@@ -61,7 +61,7 @@
 #instruction-title {
     align-self: center;
     text-align: center;
-    font-size: 30pt;
+    font-size: 20pt;
     width: 100%;
     height: 20%;
     font-style: oblique;
